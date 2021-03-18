@@ -1,0 +1,2 @@
+# assagement
+Data struct$alegorthem
